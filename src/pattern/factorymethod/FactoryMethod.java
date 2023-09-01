@@ -1,6 +1,6 @@
-package pattern.templatefactory;
+package pattern.factorymethod;
 
-public class TemplateFactory {
+public class FactoryMethod {
 	public static void main(String[] args) {
 		AbstItemCreator creator = new DefaultItemCreator();
 

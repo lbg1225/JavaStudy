@@ -1,4 +1,4 @@
-package pattern.templatefactory;
+package pattern.factorymethod;
 
 public class DefaultItem extends AbstItem{
 	private String itemName;

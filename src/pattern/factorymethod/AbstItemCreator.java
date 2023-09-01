@@ -1,4 +1,4 @@
-package pattern.templatefactory;
+package pattern.factorymethod;
 
 public abstract class AbstItemCreator {
 	public AbstItem create(String itemName){

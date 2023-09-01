@@ -1,4 +1,4 @@
-package pattern.templatefactory;
+package pattern.factorymethod;
 
 public class DefaultItemCreator extends AbstItemCreator {
 
