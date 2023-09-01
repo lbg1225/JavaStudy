@@ -2,7 +2,7 @@ package pattern.strategy;
 
 public class GameCharactor {
 	
-	// 접근점
+	// 접근점 
 	private Weapon weapon;
 	
 	// 교환가능
